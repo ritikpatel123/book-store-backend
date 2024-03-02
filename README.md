@@ -23,10 +23,10 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 
 ### Installation
 
-Clone the repository to your local machine: - [ git clone https://github.com/your-username/your-repository.git ](#clone)
+Clone the repository to your local machine: - [ git clone https://github.com/ritikpatel123/book-store-backend.git ](#clone)
 
 
-Navigate to the project directory:  - [cd your-repository](#installation)
+Navigate to the project directory:  - [cd book-store-backend](#installation)
 
 
 Install the dependencies: - [npm install](#installation)
