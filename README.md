@@ -31,6 +31,11 @@ Navigate to the project directory:  - [cd book-store-backend](#installation)
 
 Install the dependencies: - [npm install](#installation)
 
+Add -[MONGO_URI](#mongoDB) in config.env file inside config folder.
+
+Add - [CLOUDINARY CREDENTIALS ](#coludinary) in config.env file inside config folder.
+
+
 
 
 
