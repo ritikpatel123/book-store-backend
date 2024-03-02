@@ -35,6 +35,9 @@ Add -[MONGO_URI](#mongoDB) in config.env file inside config folder.
 
 Add - [CLOUDINARY CREDENTIALS ](#coludinary) in config.env file inside config folder.
 
+Also add the - [FRONT_END_URL](#frontend) in in config.env file inside config folder.
+
+
 
 
 
