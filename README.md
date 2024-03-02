@@ -1,6 +1,6 @@
-# Project Title
+# Book Management System
 
-A brief description of your project goes here.
+The book Management System is a MERN (MongoDB, Express.js, React.js, Node.js) stack project designed to facilitate the management of libraries. It provides a user-friendly interface for  users to  add, view , update , and delte  various book efficiently. This README file serves as a guide to set up and understand the project.
 
 ## Table of Contents
 
